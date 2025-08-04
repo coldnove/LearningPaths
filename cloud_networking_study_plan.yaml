@@ -1,0 +1,43 @@
+
+---
+
+## 📚 Study Plan: 4 Weeks to Cloud Networking Confidence
+
+### 🔶 Week 1: Fundamentals
+- ✅ Learn IP Addressing: CIDR, Subnetting, Public/Private IPs
+- ✅ Practice subnetting with examples
+- ✅ Tools: [Subnet Calculator](https://www.ipcalc.org/), Packet Tracer
+- ✅ Learn DNS basics: resolution, TTL, zones
+
+### 🔶 Week 2: VPC & Routing
+- ✅ Create a VPC/VNet in AWS/GCP/Azure
+- ✅ Configure:
+  - Public and private subnets
+  - Internet Gateway
+  - Route tables
+- ✅ Set up basic VPC Peering
+- ✅ Study NAT (Gateway vs. Instance)
+
+### 🔶 Week 3: Firewalls, Security Groups, Load Balancing
+- ✅ Create Security Groups/NSGs
+- ✅ Block ports, allow only SSH/HTTP
+- ✅ Create a Load Balancer (ELB, Azure LB, GCP LB)
+- ✅ Study health checks and failover
+
+### 🔶 Week 4: Advanced Topics + Monitoring
+- ✅ Configure Site-to-Site VPN
+- ✅ Test latency (traceroute, ping)
+- ✅ Enable Flow Logs or Network Watcher
+- ✅ Explore CDN (CloudFront demo)
+
+---
+
+## 🧰 Recommended Tools / Labs
+
+| Tool/Lab | Purpose |
+|---------|---------|
+| AWS VPC Wizard | Quickly build basic networks |
+| GNS3 or Cisco Packet Tracer | Simulate routing and subnetting |
+| Wireshark | Packet-level network analysis |
+| Cloud Academy / A Cloud Guru | Labs for cloud networking |
+| Terraform | Automate VPC and network builds |
